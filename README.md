@@ -1,0 +1,1 @@
+# js-assignment-on-function
